@@ -1,0 +1,6 @@
+/* This file is necessary to import the Tailwind CSS utility classes
+  for the Next.js application structure.
+*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
